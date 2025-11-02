@@ -1,6 +1,6 @@
 *.pyc
 # Large local data and env
 IITR-dataset/
-samenv/
+samEnv/
 segment-anything-annotator/vit_b.pth
 segment-anything-annotator/demo.gif
