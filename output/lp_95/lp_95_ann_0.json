@@ -1,0 +1,19 @@
+{
+  "image": "lp_95.jpg",
+  "mask_id": 0,
+  "bbox": [
+    603,
+    577,
+    111,
+    106
+  ],
+  "area": 0,
+  "predicted_iou": 0.9444340467453003,
+  "stability_score": 1.0,
+  "label": "object",
+  "polygons": [],
+  "size": {
+    "height": 4000,
+    "width": 3000
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "image": "hp_76.jpg",
+  "mask_id": 3,
+  "bbox": [
+    102,
+    195,
+    37,
+    46
+  ],
+  "area": 0,
+  "predicted_iou": 0.5645644664764404,
+  "stability_score": 1.0,
+  "label": "object",
+  "polygons": [],
+  "size": {
+    "height": 2136,
+    "width": 4624
+  }
+}

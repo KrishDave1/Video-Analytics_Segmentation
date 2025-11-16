@@ -1,0 +1,19 @@
+{
+  "image": "hp_186.jpg",
+  "mask_id": 0,
+  "bbox": [
+    273,
+    307,
+    94,
+    87
+  ],
+  "area": 0,
+  "predicted_iou": 0.7793740034103394,
+  "stability_score": 1.0,
+  "label": "object",
+  "polygons": [],
+  "size": {
+    "height": 1600,
+    "width": 720
+  }
+}

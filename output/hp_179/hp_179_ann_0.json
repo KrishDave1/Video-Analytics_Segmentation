@@ -1,0 +1,19 @@
+{
+  "image": "hp_179.jpg",
+  "mask_id": 0,
+  "bbox": [
+    247,
+    498,
+    55,
+    62
+  ],
+  "area": 0,
+  "predicted_iou": 0.7820967435836792,
+  "stability_score": 1.0,
+  "label": "object",
+  "polygons": [],
+  "size": {
+    "height": 1600,
+    "width": 720
+  }
+}

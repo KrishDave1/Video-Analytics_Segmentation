@@ -1,0 +1,19 @@
+{
+  "image": "hp_151.jpg",
+  "mask_id": 0,
+  "bbox": [
+    387,
+    217,
+    45,
+    73
+  ],
+  "area": 0,
+  "predicted_iou": 0.8189064264297485,
+  "stability_score": 1.0,
+  "label": "object",
+  "polygons": [],
+  "size": {
+    "height": 3000,
+    "width": 4000
+  }
+}

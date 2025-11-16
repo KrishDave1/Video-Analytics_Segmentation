@@ -1,0 +1,19 @@
+{
+  "image": "hp_89.jpg",
+  "mask_id": 0,
+  "bbox": [
+    155,
+    343,
+    54,
+    38
+  ],
+  "area": 0,
+  "predicted_iou": 0.5469316244125366,
+  "stability_score": 1.0,
+  "label": "object",
+  "polygons": [],
+  "size": {
+    "height": 2136,
+    "width": 4624
+  }
+}

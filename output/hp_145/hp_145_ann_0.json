@@ -1,0 +1,19 @@
+{
+  "image": "hp_145.jpg",
+  "mask_id": 0,
+  "bbox": [
+    453,
+    410,
+    60,
+    115
+  ],
+  "area": 0,
+  "predicted_iou": 0.8892134428024292,
+  "stability_score": 1.0,
+  "label": "object",
+  "polygons": [],
+  "size": {
+    "height": 4000,
+    "width": 3000
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "image": "hp_9.jpg",
+  "mask_id": 0,
+  "bbox": [
+    607,
+    312,
+    35,
+    41
+  ],
+  "area": 0,
+  "predicted_iou": 0.9141432046890259,
+  "stability_score": 1.0,
+  "label": "object",
+  "polygons": [],
+  "size": {
+    "height": 3000,
+    "width": 4000
+  }
+}

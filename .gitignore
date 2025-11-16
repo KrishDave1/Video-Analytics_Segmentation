@@ -4,3 +4,4 @@ IITR-dataset/
 samEnv/
 segment-anything-annotator/vit_b.pth
 segment-anything-annotator/demo.gif
+*.pth
