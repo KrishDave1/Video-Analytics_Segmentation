@@ -2,7 +2,7 @@ from qtpy import QtCore
 from qtpy import QtGui
 from qtpy import QtWidgets
 
-from labelme import QT5
+from qtpy import QtWidgets, QtGui, QtCore
 from shape import Shape
 import labelme.utils
 from collections import namedtuple

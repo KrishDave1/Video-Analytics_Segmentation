@@ -4,8 +4,9 @@ import uuid
 import numpy as np
 import PIL.Image
 import PIL.ImageDraw
+import logging
+logger = logging.getLogger(__name__)
 
-from labelme.logger import logger
 
 
 def polygons_to_mask(img_shape, polygons, shape_type=None):
